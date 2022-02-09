@@ -250,6 +250,7 @@
 .button-item {
     cursor: pointer;
     background: #F5F4FA;
+
 }
 .main-button-desc {
     font-family: var(--accent-text);
